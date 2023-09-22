@@ -1,0 +1,15 @@
+# -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- #
+# Welcome to the configuration of this plugin                 #
+# remember to contact the creator if you encounter any errors #
+# -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- #
+
+# Lobby Map
+lobby: "world"
+
+# Info item
+info-content: "Thanks for using the Practice Jorgebyte plugin you can contact him for a discord job like: jorgebyte"
+
+# Worlds Settings
+# Maps?
+sumo: "sumo"
+gapple: "gapple"
