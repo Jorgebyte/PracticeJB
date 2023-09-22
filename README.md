@@ -1,2 +1,4 @@
 # PracticeJB
-Core Practice
+practice core coming soon....
+
+beta phase
