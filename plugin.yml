@@ -1,0 +1,13 @@
+name: PracticeJB
+api: 5.0.0
+version: 1.0.0
+author: Jorgebyte
+main: PracticeJB\Jorgebyte\Main
+
+permissions:
+  practicejb.break:
+    default: op
+  practicejb.place:
+    default: op
+  practicejb.default.command:
+    default: true
